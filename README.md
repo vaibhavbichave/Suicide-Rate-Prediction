@@ -1,5 +1,5 @@
 # Suicide-Rate-Prediction
- The objective of this project is to predict the suicide rates using Machine Learning algorithms and to analyzing significant patterns and different parameter that result in increase of suicide rates globally.
+ The objective of this project is to predict the **Suicide Rate using Machine Learning algorithms** and to analyzing significant patterns features that result in increase of suicide rates globally.
 ## libraries used
 1. Numpy
 2. Pandas
