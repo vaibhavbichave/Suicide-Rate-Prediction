@@ -4,4 +4,4 @@ matplotlib==3.4.3
 seaborn==0.11.2
 sklearn==0.0
 Flask==1.1.2
-gunicorn=20.1.0
+gunicorn==20.1.0
