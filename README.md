@@ -1,4 +1,6 @@
 # Suicide Rate Prediction 
+![image](https://user-images.githubusercontent.com/79131292/144252164-b6d936ff-001c-4b55-9728-3af3dfa2e6b4.png)
+![image](https://user-images.githubusercontent.com/79131292/144252842-784ae6c7-951a-4ce6-acb2-8e23c4e2d780.png)
 
 ## Table of Content
   * [Introduction](#introduction)
